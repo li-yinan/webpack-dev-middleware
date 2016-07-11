@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "memory-fs": "~0.3.0",
-    "mime": "^1.3.4",
+    "mime": "git+https://github.com/li-yinan/node-mime.git",
     "range-parser": "^1.0.3"
   },
   "licenses": [
